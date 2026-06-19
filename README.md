@@ -251,6 +251,6 @@ For a secure public deployment:
 ## Author
 
 **Deekshitha D**
-- GitHub: 
+- GitHub: deekshithagowda9865
 - LinkedIn: https://www.linkedin.com/in/deekshitha-gowda-02365a384
 
