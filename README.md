@@ -127,7 +127,7 @@ const apiKey = "sk-...your-key-here...";
 
 Replace it with your key from [platform.openai.com/api-keys](https://platform.openai.com/api-keys).
 
-> ⚠️ **Security note:** API keys in client-side JS are visible to anyone who inspects the page. See the [Security Notice](#security-notice) section below before deploying publicly.
+
 
 ---
 
